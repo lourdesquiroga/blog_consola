@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "titulo": "Primeros pasos con Python",
+        "contenido": "En este post veremos como empezar a programar con Python.",
+        "autor": {
+            "nombre": "Lourdes Quiroga",
+            "bio": "Estudiante de desarrollo web y aprendiendo Python",
+            "especialidad": "Python y desarrollo backend",
+            "redes_sociales": [
+                "@lou_dev",
+                "@lourdes_python",
+                "@lou_code"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Principiantes"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Qué es Django",
+        "contenido": "Django es un framework web creado con Python.",
+        "autor": {
+            "nombre": "Lourdes Quiroga",
+            "bio": "Estudiante de desarrollo web y aprendiendo Python",
+            "especialidad": "Python y desarrollo backend",
+            "redes_sociales": [
+                "@lou_dev",
+                "@lourdes_python",
+                "@lou_code"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Django",
+            "Web"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Organizando datos con diccionarios",
+        "contenido": "Las listas permiten guardar varios elementos en una sola variable.",
+        "autor": {
+            "nombre": "Lourdes Quiroga",
+            "bio": "Estudiante de desarrollo web y aprendiendo Python",
+            "especialidad": "Python y desarrollo backend",
+            "redes_sociales": [
+                "@lou_dev",
+                "@lourdes_python",
+                "@lou_code"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Diccionarios"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "",
+        "contenido": "",
+        "autor": {
+            "nombre": "Lourdes Quiroga",
+            "bio": "Estudiante de desarrollo web y aprendiendo Python",
+            "especialidad": "Python y desarrollo backend",
+            "redes_sociales": [
+                "@lou_dev",
+                "@lourdes_python",
+                "@lou_code"
+            ]
+        },
+        "tags": "Python",
+        "estado": "pendiente"
+    },
+    {
+        "id": 5,
+        "titulo": "Mi primer post con clases",
+        "contenido": "probando",
+        "autor": {
+            "nombre": "Lourdes Quiroga",
+            "bio": "Estudiante de desarrollo web y aprendiendo Python",
+            "especialidad": "Python y desarrollo backend",
+            "redes_sociales": [
+                "@lou_dev",
+                "@lourdes_python",
+                "@lou_code"
+            ]
+        },
+        "tags": [
+            "Python",
+            "JSON"
+        ],
+        "estado": "publicado"
+    }
+]
